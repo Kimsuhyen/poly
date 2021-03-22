@@ -18,5 +18,6 @@ public class Ex03_12 {
 		e = (char) (d + 1);
 		System.out.printf(" %d \t" , (int) d);
 		System.out.printf(" %c \n" , e);
+		
 	}
 } 
